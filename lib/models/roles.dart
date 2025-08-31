@@ -1,0 +1,4 @@
+enum Roles {
+  DEFAULT,
+  CREDIT_LIMIT_ADMIN
+}
